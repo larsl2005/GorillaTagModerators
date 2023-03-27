@@ -23,3 +23,5 @@ RANKS & NAMES MIGHT BE INACCURATE!!!!!
 |6F79BE7CB34642AC|CODY O QUIN|Another Axiom|none|
 |CBCCBBB6C28A94CF|PTMSTAR|Moderator|none|
 |5B5536D4434DDC0F|{not known}|ex-moderator|no longer has stick(demoted?)|
+|54DCB69545BE0800|BIFFBISH|Moderator|none|
+|D0CB396539676DD8|FROGILLA|Moderator|none|
