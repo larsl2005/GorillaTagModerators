@@ -25,3 +25,16 @@ RANKS & NAMES MIGHT BE INACCURATE!!!!!
 |5B5536D4434DDC0F|{not known}|ex-moderator|no longer has stick(demoted?)|
 |54DCB69545BE0800|BIFFBISH|Another Axiom|none|
 |D0CB396539676DD8|FROGILLA|Moderator|none|
+
+OTHER NOTABLE PEOPLE (thx ColossusYTTV#1778)
+|UserID|Name|Notable For|Additional notes|
+|-------|----|-----------|----------------|
+|A04005517920EB0|K9|Youtuber|none|
+|5AA1231973BE8A62|APOLLO|Youtuber|none|
+|9DBC90CF7449EF64|STYLEDSNAIL|Youtuber|none|
+|6FE5FF4D5DF68843|PINE|Youtuber|none|
+|52529F0635BE0CDF|PAPASMURF|Comp Player|none|
+|D345FE394607F946|BZZZTHE18TH|Mod Creator|none|
+|6713DA80D2E9BFB5|AHAUNTEDARMY|Mod Creator/Stick candidate|none|
+|498D4C2F23853B37|POGTROLL|Comp Player|none|
+|6DC06EEFFE9DBD39|LUCIO|Comp Player/Tiktoker|inactive?|
