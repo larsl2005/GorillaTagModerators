@@ -1,6 +1,6 @@
 # GorillaTagModerators
-List of Gorilla Tag moderators and their UserID's
-Made by lars#2469
+List of Gorilla Tag moderators and their UserID's<br />
+Made by lars#2469<br />
 RANKS & NAMES MIGHT BE INACCURATE!!!!!
 | UserID | Name | Rank | Additional notes |
 | ------ | ---- | ---- | ---------------- |
