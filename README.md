@@ -6,13 +6,12 @@ RANKS & NAMES MIGHT BE INACCURATE!!!!!
 | ------ | ---- | ---- | ---------------- |
 | C3878B068886F6C3|ZZEN|Moderator|none|
 |AAB44BFD0BA34829|BODA|Moderator|can probably instant ban|
-|3A16560CA65A51DE|LEMMING|Another Axiom|Probably Lemming's Main (has admin badge)|
-|ECDE8A2FF8510934|ANTOCA|Another Axiom|Either one of the davids OR Lemming's alt (had admin badge but now only has stick)|
+|3A16560CA65A51DE|LEMMING|Another Axiom|Probably Lemming's Main (has admin badge)<br >he will probably switch accounts when this page gets more wide spread|
+|ECDE8A2FF8510934|ANTOCA|Moderator<br >(Another Axiom?)|Had admin badge for a little bit|
 |F5B5C64914C13B83|HATGIRL|Moderator|none|
 |80279945E7D3B57D|JOLYNE|Moderator|Really chill from my experience|
 |EE9FB127CF7DBBD5|NOTMARK|Moderator|none|
 |2E408ED946D55D51|HAUNTED|(ex?)moderator|rank might be innacurate|
-|7E44E8337DF02CC1|HAUNTED|(ex?)moderator|rank might be innacurate|
 |BC9764E1EADF8BE0|CIRCUIT|Moderator|none|
 |7E44E8337DF02CC1|NUNYA|Moderator|none|
 |42C809327652ECDD|ELECTRONIC|Another Axiom|Has multiple accounts, has playfab access, can ban |
@@ -20,10 +19,10 @@ RANKS & NAMES MIGHT BE INACCURATE!!!!!
 |42C809327652ECDD|ELECTRONIC|Another Axiom|Has multiple accounts, has playfab access, can ban |
 |1D6E20BE9655C798|TTTPIG|Moderator|(quest acc)Has multiple accounts, Will mod check on pc account|
 |22A7BCEFFD7A0BBA|TTTPIG|Moderator|(pc acc)Has multiple accounts, Will mod check on pc account|
-|6F79BE7CB34642AC|CODY O QUIN|Another Axiom|none|
+|6F79BE7CB34642AC|CODY O QUIN|Another Axiom|(MOST LIKELY) has playfab access, can ban|
 |CBCCBBB6C28A94CF|PTMSTAR|Moderator|none|
 |5B5536D4434DDC0F|{not known}|ex-moderator|no longer has stick(demoted?)|
-|54DCB69545BE0800|BIFFBISH|Another Axiom|none|
+|54DCB69545BE0800|BIFFBISH|Another Axiom|(MOST LIKELY) has playfab access, can ban|
 |D0CB396539676DD8|FROGILLA|Moderator|none|
 
 OTHER NOTABLE PEOPLE (thx ColossusYTTV#1778)
@@ -38,3 +37,8 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV#1778)
 |6713DA80D2E9BFB5|AHAUNTEDARMY|Mod Creator/Stick candidate|none|
 |498D4C2F23853B37|POGTROLL|Comp Player|none|
 |6DC06EEFFE9DBD39|LUCIO|Comp Player/Tiktoker|inactive?|
+|E354E818871BD1D8|DEVTHEYTHEM|Comp Player|none|
+|A6FFC7318E1301AF|JMAN|Youtuber|Not very active (possible stick candidate?)|
+|D6971CA01F82A975|ELLIOT|Youtuber|not 100% sure|
+|458CCE7845335ABF|ETHYB|Youtuber|none|
+|28EA953654FF2E79|TTTKOVUU|Comp Player|none|
