@@ -37,7 +37,7 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV#1778)
 |6713DA80D2E9BFB5|AHAUNTEDARMY|Mod Creator/Stick candidate|none|
 |498D4C2F23853B37|POGTROLL|Comp Player|none|
 |6DC06EEFFE9DBD39|LUCIO|Comp Player/Tiktoker|inactive?|
-|E354E818871BD1D8|DEVTHEYTHEM|Comp Player|none|
+|E354E818871BD1D8|DEVTHEYTHEM|Official Modder|none|
 |A6FFC7318E1301AF|JMAN|Youtuber|Not very active (possible stick candidate?)|
 |D6971CA01F82A975|ELLIOT|Youtuber|not 100% sure|
 |458CCE7845335ABF|ETHYB|Youtuber|none|
