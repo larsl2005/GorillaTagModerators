@@ -6,6 +6,7 @@ RANKS & NAMES MIGHT BE INACCURATE!!!!!
 | ------ | ---- | ---- | ---------------- |
 | C3878B068886F6C3|ZZEN|Moderator|none|
 |AAB44BFD0BA34829|BODA|Moderator|can probably instant ban|
+|61AD990FF3A423B7|BODA|Moderator|can probably instant ban (inactive account?)|
 |3A16560CA65A51DE|LEMMING|Another Axiom|Probably Lemming's Main (has admin badge)<br >he will probably switch accounts when this page gets more wide spread|
 |ECDE8A2FF8510934|ANTOCA|Moderator<br >(Another Axiom?)|Had admin badge for a little bit|
 |F5B5C64914C13B83|HATGIRL|Moderator|none|
@@ -15,7 +16,6 @@ RANKS & NAMES MIGHT BE INACCURATE!!!!!
 |BC9764E1EADF8BE0|CIRCUIT|Moderator|none|
 |7E44E8337DF02CC1|NUNYA|Moderator|none|
 |42C809327652ECDD|ELECTRONIC|Another Axiom|Has multiple accounts, has playfab access, can ban |
-|61AD990FF3A423B7|ELECTRONIC|Another Axiom|Has multiple accounts, has playfab access, can ban |
 |42C809327652ECDD|ELECTRONIC|Another Axiom|Has multiple accounts, has playfab access, can ban |
 |1D6E20BE9655C798|TTTPIG|Moderator|(quest acc)Has multiple accounts, Will mod check on pc account|
 |22A7BCEFFD7A0BBA|TTTPIG|Moderator|(pc acc)Has multiple accounts, Will mod check on pc account|
