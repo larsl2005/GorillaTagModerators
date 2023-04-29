@@ -22,7 +22,7 @@ RANKS & NAMES MIGHT BE INACCURATE!!!!!
 |54DCB69545BE0800|BIFFBISH|Another Axiom<br >Gameplay Engineer|(MOST LIKELY) has playfab access, can ban|
 |D0CB396539676DD8|FROGILLA|Moderator|none|
 
-OTHER NOTABLE PEOPLE (thx ColossusYTTV#1778)
+OTHER NOTABLE PEOPLE (thx ColossusYTTV#1778 & Pepsi Dee)
 |UserID|Name|Notable For|Additional notes|
 |-------|----|-----------|----------------|
 |A04005517920EB0|K9|Youtuber|none|
@@ -39,3 +39,4 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV#1778)
 |D6971CA01F82A975|ELLIOT|Youtuber|not 100% sure|
 |458CCE7845335ABF|ETHYB|Youtuber|none|
 |28EA953654FF2E79|TTTKOVUU|Comp Player|none|
+|A1A99D33645E4A94|yeat<br >steamvravts|Comp Moderator|ID For steam acount, other account(s) unkown<br >Not on ingame mod but could maybe become one?|
