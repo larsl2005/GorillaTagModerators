@@ -21,6 +21,7 @@ RANKS & NAMES MIGHT BE INACCURATE!!!!!
 |5B5536D4434DDC0F|{not known}|ex-moderator|no longer has stick(demoted?)|
 |54DCB69545BE0800|BIFFBISH|Another Axiom<br >Gameplay Engineer|(MOST LIKELY) has playfab access, can ban|
 |D0CB396539676DD8|FROGILLA|Moderator|none|
+|608E4B07DBEFC690|BLU|Admin(?)|Rank is not confirmed|
 
 OTHER NOTABLE PEOPLE (thx ColossusYTTV#1778 & Pepsi Dee)
 |UserID|Name|Notable For|Additional notes|
@@ -39,4 +40,4 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV#1778 & Pepsi Dee)
 |D6971CA01F82A975|ELLIOT|Youtuber|not 100% sure|
 |458CCE7845335ABF|ETHYB|Youtuber|none|
 |28EA953654FF2E79|TTTKOVUU|Comp Player|none|
-|A1A99D33645E4A94|yeat<br >steamvravts|Comp Moderator|ID For steam acount, other account(s) unkown<br >Not on ingame mod but could maybe become one?|
+|A1A99D33645E4A94|YEAT<br >STEAMVRAVTS|Comp Moderator|ID For steam acount, other account(s) unkown<br >Not on ingame mod but could maybe become one?|
