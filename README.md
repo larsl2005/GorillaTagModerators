@@ -5,11 +5,11 @@ RANKS & NAMES MIGHT BE INACCURATE!!!!!
 | UserID(s) | Name | Rank | Additional notes |
 | ------ | ---- | ---- | ---------------- |
 | C3878B068886F6C3|ZZEN|Moderator|none|
-|AAB44BFD0BA34829<br >61AD990FF3A423B7|BODA|ex moderator|No longer a moderator<br >Second id: Inactive Account?|
+|AAB44BFD0BA34829<br >61AD990FF3A423B7|BODA|Ex-Moderator|No longer a moderato (quit)r<br >Second id: Inactive Account?|
 |BC99FA914F506AB8<br >3A16560CA65A51DE<br >59F3FE769DE93AB9|LEMMING|Another Axiom<br >Owner|First id: Lemming's steam (confirmed)<br>Second id: Probably Lemming's Main (has admin badge)<br >he will probably switch accounts when this page gets more wide spread<br >Third id: Never confirmed, Lemming throwaway?|
 |ECDE8A2FF8510934|ANTOCA|Moderator<br >(Another Axiom?)|Had admin badge for a little bit|
 |F5B5C64914C13B83|HATGIRL|Moderator|Steam account|
-|80279945E7D3B57D|JOLYNE|Moderator|Really chill from my experience|
+|80279945E7D3B57D|JOLYNE|Ex-Moderator|Really chill from my experience<br >Demoted for account sharing|
 |EE9FB127CF7DBBD5|NOTMARK|Moderator|none|
 |2E408ED946D55D51|HAUNTED|(ex?)moderator|rank might be innacurate|
 |BC9764E1EADF8BE0|CIRCUIT|Moderator|none|
