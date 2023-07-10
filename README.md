@@ -1,11 +1,11 @@
 # GorillaTagModerators
 List of Gorilla Tag moderators and their UserID's<br />
-Made by lars#2469<br />
+Made by lars#2469/0harmony<br />
 RANKS & NAMES MIGHT BE INACCURATE!!!!!
 | UserID(s) | Name | Rank | Additional notes |
 | ------ | ---- | ---- | ---------------- |
 | C3878B068886F6C3|ZZEN|Moderator|none|
-|AAB44BFD0BA34829<br >61AD990FF3A423B7|BODA|Ex-Moderator|No longer a moderato (quit)r<br >Second id: Inactive Account?|
+|AAB44BFD0BA34829<br >61AD990FF3A423B7|BODA|Ex-Moderator|No longer a moderator (quit)<br >Second id: Inactive Account?|
 |BC99FA914F506AB8<br >3A16560CA65A51DE<br >59F3FE769DE93AB9|LEMMING|Another Axiom<br >Owner|First id: Lemming's steam (confirmed)<br>Second id: Probably Lemming's Main (has admin badge)<br >he will probably switch accounts when this page gets more wide spread<br >Third id: Never confirmed, Lemming throwaway?|
 |ECDE8A2FF8510934|ANTOCA|Moderator<br >(Another Axiom?)|Had admin badge for a little bit|
 |F5B5C64914C13B83|HATGIRL|Moderator|Steam account|
@@ -23,7 +23,7 @@ RANKS & NAMES MIGHT BE INACCURATE!!!!!
 |D0CB396539676DD8|FROGILLA|Moderator|none|
 |608E4B07DBEFC690|BLU|Admin(?)|Rank is not confirmed|
 
-OTHER NOTABLE PEOPLE (thx ColossusYTTV#1778 & Pepsi Dee)
+OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |UserID|Name|Notable For|Additional notes|
 |-------|----|-----------|----------------|
 |A04005517920EB0|K9|Youtuber|none|
@@ -36,7 +36,7 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV#1778 & Pepsi Dee)
 |498D4C2F23853B37|POGTROLL|Comp Player|none|
 |6DC06EEFFE9DBD39|LUCIO|Comp Player/Tiktoker|inactive?|
 |E354E818871BD1D8|DEVTHEYTHEM|Official Modder|none|
-|A6FFC7318E1301AF|JMAN|Youtuber|Not very active (possible stick candidate?)|
+|A6FFC7318E1301AF|JMAN|Youtuber|Lost CC Badge for account sharing with Jolyne|
 |D6971CA01F82A975|ELLIOT|Youtuber|not 100% sure|
 |458CCE7845335ABF|ETHYB|Youtuber|none|
 |28EA953654FF2E79|TTTKOVUU|Comp Player|none|
