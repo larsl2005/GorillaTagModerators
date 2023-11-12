@@ -33,7 +33,7 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |6FE5FF4D5DF68843|PINE|Youtuber|none|
 |52529F0635BE0CDF|PAPASMURF|Comp Player|none|
 |D345FE394607F946|BZZZTHE18TH|Mod Creator|none|
-|6713DA80D2E9BFB5|AHAUNTEDARMY|Mod Creator/Stick candidate|none|
+|6713DA80D2E9BFB5|AHAUNTEDARMY|Mod Creator/Stick candidate|Part time dev according to anonymous sources|
 |498D4C2F23853B37|POGTROLL|Comp Player|none|
 |6DC06EEFFE9DBD39|LUCIO|Comp Player/Tiktoker|inactive?|
 |E354E818871BD1D8|DEVTHEYTHEM|Official Modder|none|
@@ -42,3 +42,4 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |458CCE7845335ABF|ETHYB|Youtuber|none|
 |28EA953654FF2E79|TTTKOVUU|Comp Player|none|
 |A1A99D33645E4A94|YEAT<br >STEAMVRAVTS|Comp Moderator|ID For steam acount, other account(s) unkown<br >Not on ingame mod but could maybe become one?|
+|CA8FDFF42B7A1836|BROKENSTONE|Mod Creator|Requested to be added<br> "dumbass" - Themselfs|
