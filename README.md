@@ -45,3 +45,5 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |A1A99D33645E4A94|YEAT<br >STEAMVRAVTS|Comp Moderator|ID For steam acount, other account(s) unkown<br >Not on ingame mod but could maybe become one?|
 |CA8FDFF42B7A1836|BROKENSTONE|Mod Creator|Requested to be added<br> "dumbass" - Themselfs|
 |36B456067A5E1453|Lofiat|Mod Creator|Made a pull request adding themself|
+|BDC3EFFA7363C725|MAXO|Youtuber/Tiktoker|Steam(?) account|
+|22B846B9F0FE312E|MAJORA|Youtuber|Steam(?) account|
