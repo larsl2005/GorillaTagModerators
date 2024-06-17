@@ -39,7 +39,7 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |6DC06EEFFE9DBD39|LUCIO|Comp Player/Tiktoker|inactive?|
 |E354E818871BD1D8|DEVTHEYTHEM|Official Modder|none|
 |A6FFC7318E1301AF|JMAN|Youtuber|(Didn't loose cc, that was misinformation)|
-|D6971CA01F82A975|ELLIOT|Youtuber|not 100% sure|
+|D6971CA01F82A975|ELLIOT|Youtuber|Has artist badge|
 |458CCE7845335ABF|ETHYB|Youtuber|none|
 |28EA953654FF2E79|TTTKOVUU|Comp Player|none|
 |A1A99D33645E4A94|YEAT<br >STEAMVRAVTS|Comp Moderator|ID For steam acount, other account(s) unkown<br >Not on ingame mod but could maybe become one?|
