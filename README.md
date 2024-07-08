@@ -24,6 +24,7 @@ RANKS & NAMES MIGHT BE INACCURATE!!!!!
 |D0CB396539676DD8|FROGILLA|Moderator|none|
 |608E4B07DBEFC690|BLU|Admin(?)|Rank is not confirmed|
 |ABD60175B46E45C5|SALTWATER|Moderator|Thanks will <3|
+|6E453ED37EAB654B|OJSAUCE|Moderator|none|
 
 OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |UserID|Name|Notable For|Additional notes|
