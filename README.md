@@ -25,7 +25,7 @@ RANKS & NAMES MIGHT BE INACCURATE!!!!!
 |608E4B07DBEFC690|BLU|Admin(?)|Rank is not confirmed|
 |ABD60175B46E45C5|SALTWATER|Moderator|Thanks will <3|
 |6E453ED37EAB654B|OJSAUCE|Moderator|none|
-|2CDCB11A891CED42|V3NISH|Moderator|Probably an old ID considering its from 2022 logs.|
+|2CDCB11A891CED42|V3NISH|Moderator|none|
 
 OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |UserID|Name|Notable For|Additional notes|
