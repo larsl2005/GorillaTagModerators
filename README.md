@@ -49,3 +49,4 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |36B456067A5E1453|Lofiat|Mod Creator|Made a pull request adding themself|
 |BDC3EFFA7363C725|MAXO|Youtuber/Tiktoker|Steam(?) account|
 |22B846B9F0FE312E|MAJORA|Youtuber|Steam(?) account|
+|CC24059E8F10EF1F|TINOTIN|progtagleaker|none|
