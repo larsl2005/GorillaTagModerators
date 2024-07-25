@@ -41,7 +41,7 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |498D4C2F23853B37|POGTROLL|Comp Player|none|
 |6DC06EEFFE9DBD39|LUCIO|Comp Player/Tiktoker|inactive?|
 |E354E818871BD1D8|DEVTHEYTHEM|Official Modder|none|
-|A6FFC7318E1301AF<br >E5758483EFCD0D18|JMAN|Youtuber|(Didn't loose cc, that was misinformation)<br >Credits to KINGCUBINGVR for the second id.|
+|A6FFC7318E1301AF<br >E5758483EFCD0D18|JMAN|Youtuber|(Didn't loose cc, that was misinformation)<br >Credits to KINGCUBINGVR and glowstone for the second id.|
 |D6971CA01F82A975|ELLIOT|Youtuber|Has artist badge|
 |458CCE7845335ABF|ETHYB|Youtuber|none|
 |28EA953654FF2E79|TTTKOVUU|Comp Player|none|
