@@ -43,6 +43,7 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |E354E818871BD1D8|DEVTHEYTHEM|Official Modder|none|
 |A6FFC7318E1301AF<br >E5758483EFCD0D18|JMAN|Youtuber|(Didn't loose cc, that was misinformation)<br >Credits to KINGCUBINGVR and glowstone for the second id.|
 |3B9FD2EEF24ACB3|VMT|Youtuber|Steam account|
+|378D7E14A11734FF|ERIK1515|Youtuber|Steam account|
 |D6971CA01F82A975|ELLIOT|Youtuber|Has artist badge|
 |458CCE7845335ABF|ETHYB|Youtuber|none|
 |28EA953654FF2E79|TTTKOVUU|Comp Player|none|
