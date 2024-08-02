@@ -40,6 +40,7 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |6713DA80D2E9BFB5|AHAUNTEDARMY|Mod Creator/Stick candidate|Part time dev according to anonymous sources|
 |498D4C2F23853B37|POGTROLL|Comp Player|none|
 |6DC06EEFFE9DBD39|LUCIO|Comp Player/Tiktoker|inactive?|
+|FBE3EE50747CB892|LUNAKITTY|Retired Official Modder|wanted to be added lol|
 |E354E818871BD1D8|DEVTHEYTHEM|Official Modder|none|
 |A6FFC7318E1301AF<br >E5758483EFCD0D18|JMAN|Youtuber|(Didn't loose cc, that was misinformation)<br >Credits to KINGCUBINGVR and glowstone for the second id.|
 |3B9FD2EEF24ACB3|VMT|Youtuber|Steam account|
