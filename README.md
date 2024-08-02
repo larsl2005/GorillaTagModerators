@@ -54,3 +54,5 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |22B846B9F0FE312E|MAJORA|Youtuber|Steam(?) account|
 |FD39927817389160|FOOJVR|TikToker|Steam account, has finger painter|
 |CC24059E8F10EF1F|TINOTIN|progtagleaker|none|
+|DAD8F5689EC1FC51|MUSI/MEOWSCAS|nothing good|"alleged" pedo|
+|2ECA95BDE7C7C6B7|LXVR|nothing good|MUSI/MEOWSCAS's Partner|
