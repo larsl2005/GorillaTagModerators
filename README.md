@@ -27,6 +27,7 @@ RANKS & NAMES MIGHT BE INACCURATE!!!!!
 |6E453ED37EAB654B|OJSAUCE|Moderator|none|
 |2CDCB11A891CED42|V3NISH|Moderator|none|
 |3727E8098E9A67CB|AA_rev2600|Another Axiom<br >Developer||
+|D62C339F67B1B2A3|Wisdom|Moderator|none|
 
 OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |UserID|Name|Notable For|Additional notes|
