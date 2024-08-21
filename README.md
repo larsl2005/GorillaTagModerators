@@ -43,8 +43,8 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |CA8FDFF42B7A1836|BROKENSTONE|Mod Creator|Requested to be added<br> "dumbass" - Themselfs|
 |36B456067A5E1453|LOFIAT|Mod Creator|Made a pull request adding themself|
 |53CEB3E6501092C0|KRONICAHL|Mod User|wanted to be added lol|
-|F37C42AE22744DBA|[G.r.a.z.e]|Mod Creator|wanted to be added lol|
-|FBE3EE50747CB892|LUNAKITTY|Retired Official Modder|wanted to be added lol|
+|F37C42AE22744DBA|[G.r.a.z.e]|Mod Creator/Modded Cosmetic Maker|wanted to be added lol|
+|FBE3EE50747CB892|LUNAKITTY|Official Modder|wanted to be added lol|
 |E354E818871BD1D8|DEVTHEYTHEM|Official Modder|none|
 |A6FFC7318E1301AF<br >E5758483EFCD0D18|JMAN|Youtuber|(Didn't loose cc, that was misinformation)<br >Credits to KINGCUBINGVR and glowstone for the second id.|
 |3B9FD2EEF24ACB3|VMT|Youtuber|Steam account|
