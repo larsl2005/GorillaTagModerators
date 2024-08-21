@@ -22,7 +22,7 @@ RANKS & NAMES MIGHT BE INACCURATE!!!!!
 |5B5536D4434DDC0F|{not known}|ex-moderator|no longer has stick(demoted?)|
 |54DCB69545BE0800|BIFFBISH|Another Axiom<br >Backend Developer|(MOST LIKELY) has playfab access, can ban|
 |D0CB396539676DD8|FROGILLA|Moderator|none|
-|608E4B07DBEFC690|BLU|Admin(?)|Rank is not confirmed|
+|608E4B07DBEFC690|BLU|EX Admin|Rank is not confirmed|
 |ABD60175B46E45C5|SALTWATER|Moderator|Thanks will <3|
 |6E453ED37EAB654B|OJSAUCE|Moderator|none|
 |2CDCB11A891CED42|V3NISH|Moderator|none|
