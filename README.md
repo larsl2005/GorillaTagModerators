@@ -22,11 +22,12 @@ RANKS & NAMES MIGHT BE INACCURATE!!!!!
 |5B5536D4434DDC0F|{not known}|ex-moderator|no longer has stick(demoted?)|
 |54DCB69545BE0800|BIFFBISH|Another Axiom<br >Backend Developer|(MOST LIKELY) has playfab access, can ban|
 |D0CB396539676DD8|FROGILLA|Moderator|none|
-|608E4B07DBEFC690|BLU|Admin(?)|Rank is not confirmed|
+|608E4B07DBEFC690|BLU|EX Admin|Rank is not confirmed|
 |ABD60175B46E45C5|SALTWATER|Moderator|Thanks will <3|
 |6E453ED37EAB654B|OJSAUCE|Moderator|none|
 |2CDCB11A891CED42|V3NISH|Moderator|none|
 |3727E8098E9A67CB|AA_rev2600|Another Axiom<br >Developer||
+|D62C339F67B1B2A3|Wisdom|Moderator|none|
 
 OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |UserID|Name|Notable For|Additional notes|
@@ -57,5 +58,6 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |22B846B9F0FE312E|MAJORA|Youtuber|Steam(?) account|
 |FD39927817389160|FOOJVR|TikToker|Steam account, has finger painter|
 |CC24059E8F10EF1F|TINOTIN|progtagleaker|none|
+|E93DEDEE4D6F0139|Boethiah|Youtuber|Rec-Room cc (has fp)
 |DAD8F5689EC1FC51<br >1EE38B9C6B26E3E0|MUSI/MEOWSCAS|nothing good|"alleged" pedo|
 |2ECA95BDE7C7C6B7|LXVR|nothing good|MUSI/MEOWSCAS's Partner, attempting to defend them|
