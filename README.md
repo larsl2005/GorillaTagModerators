@@ -40,6 +40,10 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |6713DA80D2E9BFB5|AHAUNTEDARMY|Mod Creator/Stick candidate|Part time dev according to anonymous sources|
 |498D4C2F23853B37|POGTROLL|Comp Player|none|
 |6DC06EEFFE9DBD39|LUCIO|Comp Player/Tiktoker|inactive?|
+|CA8FDFF42B7A1836|BROKENSTONE|Mod Creator|Requested to be added<br> "dumbass" - Themselfs|
+|36B456067A5E1453|LOFIAT|Mod Creator|Made a pull request adding themself|
+|53CEB3E6501092C0|KRONICAHL|Mod User|wanted to be added lol|
+|F37C42AE22744DBA|[G.r.a.z.e]|Mod Creator|wanted to be added lol|
 |FBE3EE50747CB892|LUNAKITTY|Retired Official Modder|wanted to be added lol|
 |E354E818871BD1D8|DEVTHEYTHEM|Official Modder|none|
 |A6FFC7318E1301AF<br >E5758483EFCD0D18|JMAN|Youtuber|(Didn't loose cc, that was misinformation)<br >Credits to KINGCUBINGVR and glowstone for the second id.|
@@ -49,8 +53,6 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |458CCE7845335ABF|ETHYB|Youtuber|none|
 |28EA953654FF2E79|TTTKOVUU|Comp Player|none|
 |A1A99D33645E4A94|YEAT<br >STEAMVRAVTS|Comp Moderator|ID For steam acount, other account(s) unkown<br >Not on ingame mod but could maybe become one?|
-|CA8FDFF42B7A1836|BROKENSTONE|Mod Creator|Requested to be added<br> "dumbass" - Themselfs|
-|36B456067A5E1453|Lofiat|Mod Creator|Made a pull request adding themself|
 |BDC3EFFA7363C725|MAXO|Youtuber/Tiktoker|Steam(?) account|
 |22B846B9F0FE312E|MAJORA|Youtuber|Steam(?) account|
 |FD39927817389160|FOOJVR|TikToker|Steam account, has finger painter|
