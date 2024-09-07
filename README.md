@@ -61,3 +61,4 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |E93DEDEE4D6F0139|Boethiah|Youtuber|Rec-Room cc (has fp)
 |DAD8F5689EC1FC51<br >1EE38B9C6B26E3E0|MUSI/MEOWSCAS|nothing good|"alleged" pedo|
 |2ECA95BDE7C7C6B7|LXVR|nothing good|MUSI/MEOWSCAS's Partner, attempting to defend them|
+|C2D3325B5F8B52C9<br >B6CF8142045C36B0|BIOTEST|Mod Creator|none|First id: Steam Account<br >Second id: Quest Account|
