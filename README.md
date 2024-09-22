@@ -34,7 +34,7 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |-------|----|-----------|----------------|
 |A04005517920EB0|K9|Youtuber|none|
 |5AA1231973BE8A62|APOLLO|Youtuber|none|
-|9DBC90CF7449EF64|STYLEDSNAIL|Youtuber|Steam account|
+|9DBC90CF7449EF64<br>1D6C2A5C6B419BFE|STYLEDSNAIL|Youtuber|Steam account<br>Quest Account|
 |6FE5FF4D5DF68843|PINE|Youtuber|none|
 |52529F0635BE0CDF|PAPASMURF|Comp Player|none|
 |D345FE394607F946|BZZZTHE18TH|Mod Creator|none|
@@ -50,11 +50,11 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |A6FFC7318E1301AF<br >E5758483EFCD0D18|JMAN|Youtuber|(Didn't loose cc, that was misinformation)<br >Credits to KINGCUBINGVR and glowstone for the second id.|
 |3B9FD2EEF24ACB3|VMT|Youtuber|Steam account|
 |378D7E14A11734FF|ERIK1515|Youtuber|Steam account|
-|D6971CA01F82A975|ELLIOT|Youtuber|Has artist badge|
+|D6971CA01F82A975<br>7FB16B1EDEB71A4C|ELLIOT|Youtuber|Has illustrator badge<br>Elliot Quest ID|
 |458CCE7845335ABF|ETHYB|Youtuber|none|
 |28EA953654FF2E79|TTTKOVUU|Comp Player|none|
 |A1A99D33645E4A94|YEAT<br >STEAMVRAVTS|Comp Moderator|ID For steam acount, other account(s) unkown<br >Not on ingame mod but could maybe become one?|
-|BDC3EFFA7363C725|MAXO|Youtuber/Tiktoker|Steam(?) account|
+|BDC3EFFA7363C725<br>6D519835077C073C|MAXO|Youtuber/Tiktoker|Steam account<br>Quest Account|
 |22B846B9F0FE312E|MAJORA|Youtuber|Steam(?) account|
 |FD39927817389160|FOOJVR|TikToker|Steam account, has finger painter|
 |CC24059E8F10EF1F|TINOTIN|progtagleaker|none|
