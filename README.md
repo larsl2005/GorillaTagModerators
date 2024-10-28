@@ -61,3 +61,10 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |E93DEDEE4D6F0139|Boethiah|Youtuber|Rec-Room cc (has fp)
 |DAD8F5689EC1FC51<br >1EE38B9C6B26E3E0|MUSI/MEOWSCAS|nothing good|"alleged" pedo|
 |2ECA95BDE7C7C6B7|LXVR|nothing good|MUSI/MEOWSCAS's Partner, attempting to defend them|
+|2B451140E57B7E8F|SNICKS|Youtuber/Tiktoker|none|
+|C581C292E22561B7|Lunar|A youtuber?|none|
+|3D1CEB386458CAE1|ThatSharkk|Tiktoker|none|
+|E3553B08810C205C|GMask|Youtuber|Before a gtag youtuber, now a Yeeps youtuber|
+|CB8A51A21EB56ACE|Slixx|Possibly a youtuber|Has finger painter|
+|DAC8982021A6B1BE|Bengal|Youtuber/Tiktoker|none|
+|5380BEF3DA4A857D|Tuxedo|Tiktoker|Has finger painter|
