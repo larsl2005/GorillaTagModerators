@@ -12,12 +12,10 @@ Moderators
 |ECDE8A2FF8510934|ANTOCA|Moderator<br>(Another Axiom?)|Had admin badge for a little bit|
 |F5B5C64914C13B83|HATGIRL|Moderator|Steam account|
 |80279945E7D3B57D|JOLYNE|Ex-Moderator|Really chill from my experience<br>Demoted for account sharing<br>(also resigned themselfs later)|
-|2E408ED946D55D51|HAUNTED|(ex?)moderator|rank might be innacurate|
 |BC9764E1EADF8BE0|CIRCUIT|Moderator|none|
 |7E44E8337DF02CC1|NUNYA|Moderator|none|
 |42C809327652ECDD<br>7F31BEEC604AE18B<br>5FD1FF848372920E|ELECTRONIC|Another Axiom<br>Community Manager|Both id's: Has multiple accounts, has playfab access, can ban|
 |1D6E20BE9655C798<br>22A7BCEFFD7A0BBA|TTTPIG|Moderator|First id: Oculus account<br>Second id: Steam account<br>Has multiple accounts, Will mod check on pc account|
-|6F79BE7CB34642AC|CODY O QUIN|Another Axiom<br>Community Manager|(MOST LIKELY) has playfab access, can ban|
 |CBCCBBB6C28A94CF|PTMSTAR|Moderator|none|
 |5B5536D4434DDC0F|{not known}|ex-moderator|no longer has stick(demoted?)|
 |D0CB396539676DD8|FROGILLA|Moderator|none|
@@ -53,7 +51,7 @@ Another Axiom Members
 |B2C58972A373F0FE|AA_JonnyD|Another Axiom<br>Developer|Quest Account|
 |EAD1B0D117D4A9D8|AA_Dani|Another Axiom<br>Developer|Quest Account|
 |FFB1485B1828D205|AA_AnthonyH|Another Axiom<br>Developer|Quest Account|
-|83D2470658ADE9FE|AHauntedArmy|Another Axiom<br>Developer|Quest Account|
+|2E408ED946D55D51<br>83D2470658ADE9FE|AHauntedArmy|Another Axiom<br>Developer|Steam Account<br>Quest Account|
 |9E0B7AB5C2FB8825|AA_Jess|Another Axiom<br>Developer|Quest Account|
 |5FD1FF848372920E|ElectronicWall|Moderator, Playfab Access|Quest Account|
 |54DCB69545BE0800|BIFFBISH|Another Axiom<br>Backend Developer|(MOST LIKELY) has playfab access, can ban|
