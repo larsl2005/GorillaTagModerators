@@ -20,7 +20,6 @@ Moderators
 |6F79BE7CB34642AC|CODY O QUIN|Another Axiom<br>Community Manager|(MOST LIKELY) has playfab access, can ban|
 |CBCCBBB6C28A94CF|PTMSTAR|Moderator|none|
 |5B5536D4434DDC0F|{not known}|ex-moderator|no longer has stick(demoted?)|
-|54DCB69545BE0800|BIFFBISH|Another Axiom<br>Backend Developer|(MOST LIKELY) has playfab access, can ban|
 |D0CB396539676DD8|FROGILLA|Moderator|none|
 |608E4B07DBEFC690|BLU|EX Admin|Rank is not confirmed|
 |ABD60175B46E45C5|SALTWATER|Moderator|Thanks will <3|
@@ -57,6 +56,7 @@ Another Axiom Members
 |83D2470658ADE9FE|AHauntedArmy|Another Axiom<br>Developer|Quest Account|
 |9E0B7AB5C2FB8825|AA_Jess|Another Axiom<br>Developer|Quest Account|
 |5FD1FF848372920E|ElectronicWall|Moderator, Playfab Access|Quest Account|
+|54DCB69545BE0800|BIFFBISH|Another Axiom<br>Backend Developer|(MOST LIKELY) has playfab access, can ban|
 |EE9FB127CF7DBBD5|NOTMARK|Moderator|none|
 
 OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
